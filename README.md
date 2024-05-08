@@ -1,12 +1,12 @@
 # Proyecto de Buscador de Pokemon
 
-Este es un proyecto de ejemplo que utiliza HTML, CSS y JavaScript. Puedes ver la versión desplegada en Vercel a través del siguiente enlace:
+Este es un proyecto de ejemplo que utiliza HTML, CSS, Bootstrap y JavaScript. Puedes ver la versión desplegada en Vercel a través del siguiente enlace:
 
 https://prueba-tecnica-1-pokeapi.vercel.app/
 
 ## Descripción
 
-Este proyecto es una demostración de cómo se pueden combinar HTML, CSS, JavaScript y React para crear una pagina donde se pueda buscar entre una gran cantidad de pokemones usando de base la API de PokeAPi.
+Este proyecto es una demostración de cómo se pueden combinar HTML, CSS, Bootstrap, JavaScript y React para crear una pagina donde se pueda buscar entre una gran cantidad de pokemones usando de base la API de PokeAPi.
 
 ## Uso
 
